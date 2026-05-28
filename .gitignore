@@ -29,3 +29,5 @@ coverage/
 .env
 .env.*
 SSH/
+.ssh/config
+.ssh/id_ed25519_herald_20260524_084750.pub
